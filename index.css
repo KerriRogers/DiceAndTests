@@ -1,0 +1,30 @@
+html{
+	color: white;
+	background-color: green;
+}
+
+body {
+	margin-left: 250px;
+}
+ 
+.Block {
+	display: inline-block;
+}
+
+.bb {
+	background-color: red;
+	height: 50px;
+	width: 50px;
+	color: white;
+	border-radius: 5px;
+}
+
+#test {
+	background-color: white;
+	height: 50px;
+	width: 150px;
+	color: red;
+	border-radius: 5px;
+	margin-left: 250px;
+}
+
